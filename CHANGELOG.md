@@ -3,6 +3,15 @@
 All notable changes to Soberix are documented here, newest first.
 Format inspired by [Bloxstrap's release notes](https://github.com/bloxstraplabs/bloxstrap/releases).
 
+## v1.6.4
+
+Documentation
+
+- New "⚡ Copie e rode em 30s" section in the README: install Sober + grab
+  the AppImage + run, in three copy-paste commands
+- SEO README refresh (EN + PT-BR): keyword-aligned titles, cross-links and
+  unified feature descriptions
+
 ## v1.6.3
 
 Bug fixes
