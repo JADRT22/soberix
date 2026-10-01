@@ -36,23 +36,25 @@ mods, activity tracking and backups — behind a friendly interface.
 > are ignored by the client. Soberix only writes flags from the known allowlist.
 > Reference: [Sober tips & tricks](https://vinegarhq.org/Sober/Configuration/TipsAndTricks.html)
 
-## ⚡ Copie e rode em 30s / Copy-paste in 30s
+## ⚡ Copy-paste in 30s / Copie e rode em 30s
 
 > [!TIP]
-> Precisa do [Sober](https://sober.vinegarhq.org/) (Flatpak) instalado — 1 comando abaixo.
+> Requires the [Sober](https://sober.vinegarhq.org/) Flatpak — step 1 below.
 
 ```bash
-# 1. Sober (runtime oficial que roda o Roblox no Linux, sem Wine)
+# 1. Sober (the runtime that runs Roblox on Linux, no Wine)
 flatpak install -y flathub org.vinegarhq.Sober
 
-# 2. Soberix — baixe o AppImage mais recente dos Releases
+# 2. Soberix — grab the latest AppImage from Releases
 xdg-open https://github.com/JADRT22/soberix/releases/latest
 
-# 3. Rode
+# 3. Run
 chmod +x Soberix-*.AppImage && ./Soberix-*.AppImage
 ```
 
-O botão **PLAY** aplica seu perfil de qualidade sozinho. Trocar perfil/FastFlag pelo CLI: `soberix fflags preset medio`.
+The **PLAY** button applies your quality profile automatically. Switch profile/FastFlag via CLI: `soberix fflags preset medium`.
+
+> 🇧🇷 Passo a passo em português: [README.pt-BR.md](README.pt-BR.md).
 
 ## ✨ Features
 
