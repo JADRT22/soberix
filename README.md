@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  An open-source Roblox launcher manager for Linux — what <a href="https://github.com/bloxstraplabs/bloxstrap">Bloxstrap</a>
+  An open-source roblox launcher linux — a Roblox launcher manager for Linux, what <a href="https://github.com/bloxstraplabs/bloxstrap">Bloxstrap</a>
   does for Windows, built on top of <a href="https://sober.vinegarhq.org/">Sober</a>.
 </p>
 
@@ -28,6 +28,8 @@
 Android Roblox client natively on Linux, no Wine needed. Sober does the heavy lifting;
 Soberix manages it the way Bloxstrap manages the Windows client: quality profiles, FastFlags,
 mods, activity tracking and backups — behind a friendly interface.
+
+> 🇧🇷 **Em Português:** Soberix é um launcher de Roblox para Linux (roblox launcher linux) — gerencia o Sober como o Bloxstrap gerencia o cliente Windows: perfis de qualidade, FastFlags da allowlist, mods, backups e interface GTK4 + CLI. Versão completa: [README.pt-BR.md](README.pt-BR.md).
 
 > [!WARNING]
 > Since 2025-09-30, Roblox only honors FastFlags on an **allowlist** — flags outside the list
